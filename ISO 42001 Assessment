@@ -1,0 +1,47 @@
+. Governance and Leadership
+Defined AI governance structure
+Assigned accountability (e.g., AI risk owner)
+Executive oversight
+
+Score: 1 / 5 — Basic IT/security policies exist, but no AI-specific governance body, no named accountable owner, and no regular executive review of AI risk.
+
+2. Risk Management and Controls
+AI-specific risk assessments
+Control framework aligned to Annex A
+Risk treatment plans
+
+Score: 1 / 5 — No AI-specific risk assessments have been performed for the chatbot, hiring model, marketing tool, or fraud model; no mapping to Annex A controls.
+
+3. Documentation and Evidence
+Policies and procedures
+Model documentation (e.g., model cards)
+Audit readiness
+
+Score: 2 / 5 — General acceptable-use and data policies exist, but no model cards, no vendor documentation for third-party AI, and the org would not pass an audit today.
+
+4. Monitoring and Continuous Improvement
+Performance monitoring
+Incident response
+Feedback loops
+
+Score: 1 / 5 — No structured AI performance monitoring; general IT incident response exists but has no AI-specific triggers (e.g., model drift, bias complaints).
+
+ISO 42001 Summary
+
+Total Score: 5 / 20
+
+Key Gaps
+No accountable owner for AI risk; governance is informal and ad hoc
+No AI-specific risk register or control mapping to Annex A
+No model documentation (model cards) for internal or third-party AI systems
+No continuous monitoring or AI-specific incident response
+Recommended Actions
+Conduct a stakeholder / interested-party inventory (Clause 4.2) — who is affected by or has requirements for each AI system: customers, candidates, regulators, vendors, internal teams
+Run an initial AI risk assessment (Clause 6.1) across all four use cases to identify and prioritize risk before designing controls around it
+Appoint an AI Governance Owner (or stand up a cross-functional committee: Legal, Security, HR, Data/AI), scoped by what the risk assessment surfaces
+Draft an AI Governance Policy and charter, mapped to Annex A control objectives, informed by the risk assessment rather than written in parallel to it
+Build a model card template and require it for every internal and third-party AI system
+Estimated Timeline
+0–30 days: Stakeholder/interested-party inventory (Clause 4.2) and initial AI risk assessment (Clause 6.1) across all four use cases
+30–60 days: Appoint AI Governance Owner/committee; draft policy and Annex A control mapping based on the risk assessment findings
+60–90 days: Stand up the risk register and model card template; run first Annex A gap review
