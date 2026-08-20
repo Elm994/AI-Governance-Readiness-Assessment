@@ -13,7 +13,6 @@ Let's assess the organization’s readiness.
 
 
 Step 1: Review the organization.
-Use the scenario above (or substitute your own organization).
 Step 2: Complete each framework assessment.
 Work through:
 1. ISO 42001
